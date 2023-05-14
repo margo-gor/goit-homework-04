@@ -429,7 +429,7 @@ text-align: center;
 .customers-title{
   font-size: 36px;
   line-height: 1.1;
-  color: #2E2F42;;
+  color: #2E2F42;
   margin-bottom: 72px;
   text-align: center;
 }
@@ -448,6 +448,9 @@ text-align: center;
   height: 100%;
   width: 100%;
   border: 1px solid #8e8f99;
+
+  color: #8e8f99;
+  
   border-radius: 4px;
   display: flex;
   align-items: center;
