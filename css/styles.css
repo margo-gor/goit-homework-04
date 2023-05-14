@@ -450,12 +450,11 @@ text-align: center;
   border: 1px solid #8e8f99;
 
   color: #8e8f99;
-  
+
   border-radius: 4px;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #afb1b8;;
 }
 
 .customers-link:hover,
@@ -471,7 +470,37 @@ text-align: center;
 /* Footer section */
 .footer {
   background: #2e2f42;
+  height: 312px;
   padding: 100px 0;
+}
+
+.footer-container {
+  align-items: baseline;
+  display: flex;
+  gap: 120px;
+}
+
+.footer-logo-container {
+  margin-right: 0;
+  width: 264px;
+}
+
+.footer-soc-container {
+  display: block;
+}
+
+.soc-list-footer {
+  gap: 16px;
+}
+
+.soc-text {
+  margin-bottom: 16px;
+  color: white;
+}
+
+.soc-link-footer:hover,
+.soc-link-footer:focus {
+  background: #31d0aa;
 }
 
 .info-footer {
