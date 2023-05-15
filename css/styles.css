@@ -485,6 +485,23 @@ text-align: center;
   width: 264px;
 }
 
+.info-footer {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #E7E9FC;
+  margin: 0;
+}
+
+  .logo-studio-footer { 
+  color: #F4F4FD;
+  text-decoration-line: none;
+}
+
+.logo-studio-footer:visited {
+    color: #f4f4fd;
+}
+
 .footer-soc-container {
   display: block;
 }
@@ -494,27 +511,18 @@ text-align: center;
 }
 
 .soc-text {
-  margin-bottom: 16px;
-  color: white;
+margin-bottom: 16px;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #FFFFFF;
 }
 
 .soc-link-footer:hover,
 .soc-link-footer:focus {
   background-color: #31d0aa;
 }
-
-.info-footer {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #E7E9FC;
-  margin: 0;
- 
-  
-  }
-  .logo-studio-footer { 
-  color: #F4F4FD;
-  }
 
 /* Portfolio Page */
 
