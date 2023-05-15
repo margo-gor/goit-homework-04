@@ -477,7 +477,7 @@ text-align: center;
 .footer-container {
   align-items: baseline;
   display: flex;
-  margin-right: 120px;
+  gap: 120px;
 }
 
 .footer-logo-container {
