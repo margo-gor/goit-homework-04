@@ -481,6 +481,7 @@ text-align: center;
 .footer-logo-container {
   margin-right: 0;
   width: 264px;
+  gap: 120px;
 }
 
 .info-footer {
@@ -489,6 +490,7 @@ text-align: center;
   letter-spacing: 0.02em;
   color: #E7E9FC;
   margin: 0;
+  
 }
 
   .logo-studio-footer { 
