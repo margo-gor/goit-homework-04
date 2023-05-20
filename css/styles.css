@@ -138,6 +138,7 @@ body {
      display: flex; 
      display: inline-block;
      margin-right: 76px;
+     margin-bottom: 16px;
   }
 
  .menu-link {
@@ -157,6 +158,8 @@ body {
   padding-top: 188px;
   padding-bottom: 188px;
   max-width: 1440px;
+  height: 600px;
+  margin: 0 auto;
   background-image: linear-gradient(
     rgba(46, 47, 66, 0.7),
     rgba(46, 47, 66, 0.7)
@@ -305,10 +308,12 @@ margin-bottom: 72px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  text-align: center;
   letter-spacing: 0.02em;
   color: #2E2F42;
+  margin-bottom: 8px;
+  margin-top: 0;
 }
+
 .portfolio-list-text {
 font-family: 'Roboto', sans-serif;
 font-style: normal;
@@ -360,6 +365,7 @@ text-align: center;
 letter-spacing: 0.02em;
 color: #434455;
 text-align: center;
+margin-bottom: 8px;
 }
 
 .team-section {
@@ -526,18 +532,6 @@ color: #FFFFFF;
 
 /* Portfolio Page */
 
-.portfolio-list-title {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2E2F42;
-  margin-bottom: 8px;
-  margin-top: 0;
-}
-
 .container-content {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
@@ -612,6 +606,7 @@ color: #FFFFFF;
   text-align: center;
   letter-spacing: 0.04em;
   color: #4D5AE5; 
+  background: #F4F4FD;
   border: 1px solid transparent;
         }
 
